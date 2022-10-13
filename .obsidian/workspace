@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "c4bd9dc1acd040ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d2f7d485da3e47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "专业课/密码学.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7c0a3591e019a1cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "专业课/重点.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e1ac41d36a9843e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b5969b7f7e0254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edaf6ded808d8200",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffa4d2e2dc98e9b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9a384d9056f7523",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "560a9378ebd62b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "649547c37247f6a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d33fb18291956d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "专业课/密码学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7de40569623b885",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "专业课/密码学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32e72a8a8105d23c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2c554c6148737a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专业课/密码学.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 753,
+    "collapsed": true
+  },
+  "active": "f1d2f7d485da3e47",
+  "lastOpenFiles": [
+    "专业课/重点.md",
+    "专业课/密码学.md",
+    "专业课/名词解释.md",
+    "线代/答案.md",
+    "线代/线代.md",
+    "线代/线代基本功.md",
+    "线代/证明.md",
+    "高数18讲/线代.md",
+    "专业课/问题点.md",
+    "高数18讲/二重积分.md"
+  ]
+}
