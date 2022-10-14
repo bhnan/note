@@ -2,5 +2,6 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "附件",
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "source"
 }
