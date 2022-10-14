@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "541e245b95bcc507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线代/线代基本功.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "6ccfbd744232128b",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线代/线代.md",
+                "file": "线代/线代基本功.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线代/线代.md",
+                "file": "线代/线代基本功.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线代/线代.md"
+                "file": "线代/线代基本功.md"
               }
             }
           }
@@ -158,11 +171,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "362ba9ad8965af8c",
+  "active": "541e245b95bcc507",
   "lastOpenFiles": [
-    "线代/答案.md",
     "线代/线代.md",
     "线代/线代基本功.md",
+    "线代/答案.md",
     "专业课/密码学.md",
     "专业课/重点.md",
     "专业课/名词解释.md",
