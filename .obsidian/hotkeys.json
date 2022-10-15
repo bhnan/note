@@ -43,15 +43,17 @@
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "S"
+      "key": "C"
     }
   ],
   "obsidian-git:push2": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }
