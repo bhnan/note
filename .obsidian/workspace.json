@@ -4,28 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "479b56373fcef426",
+        "id": "af5809458f54a22b",
         "type": "tabs",
         "children": [
           {
-            "id": "02ff754282972316",
+            "id": "bbf77267f005cc6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/概率论.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "48c0567030ae1b92",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7448df2c842560fa",
+            "id": "d161d0b01a977128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/重点.md",
+                "file": "概率论/答案.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/密码学.md"
+                "file": "概率论/答案.md"
               }
             }
           }
@@ -152,17 +159,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "02ff754282972316",
+  "active": "d161d0b01a977128",
   "lastOpenFiles": [
+    "高数18讲/中值定理，微分等式与微分不等式.md",
+    "概率论/答案.md",
+    "概率论/概率论.md",
+    "未命名.md",
     "专业课/重点.md",
     "专业课/密码学.md",
     "线代/答案.md",
     "线代/线代.md",
     "线代/线代基本功.md",
-    "专业课/名词解释.md",
-    "线代/证明.md",
-    "高数18讲/线代.md",
-    "专业课/问题点.md",
-    "高数18讲/二重积分.md"
+    "专业课/名词解释.md"
   ]
 }
