@@ -6,6 +6,8 @@ png
 pa
 pg
 pd
+pi
+pvdg
 md
 mark
 mod
@@ -37,6 +39,7 @@ style
 sr
 smodp
 se
+sqrt
 ffgbnz
 fs
 frac
@@ -57,6 +60,7 @@ xh
 xzci
 xmodp
 xr
+xy
 uyc
 Feistel
 FFF
