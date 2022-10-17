@@ -10,6 +10,7 @@ pg
 pd
 pi
 pvdg
+pq
 md
 mark
 mod
@@ -85,6 +86,7 @@ ge
 ckp
 clt
 cases
+cdots
 ztb
 zu
 GF
@@ -97,6 +99,7 @@ ECC
 OFB
 wsqqjw
 wmodq
+wtug
 Miller
 Mx
 Hellman
