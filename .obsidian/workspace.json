@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "概率论/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "概率论/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论/概率论.md"
+                "file": "概率论/答案.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bbf77267f005cc6e",
+  "active": "d161d0b01a977128",
   "lastOpenFiles": [
-    "概率论/答案.md",
     "概率论/概率论.md",
+    "概率论/答案.md",
     "概率论/知识点.md",
     "专业课/计算机网络.md",
     "专业课/密码学.md",
