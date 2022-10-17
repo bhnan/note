@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/概率论.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/概率论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/概率论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/密码学.md"
+                "file": "概率论/概率论.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "edaf6ded808d8200",
   "lastOpenFiles": [
+    "专业课/密码学.md",
     "概率论/概率论.md",
     "概率论/答案.md",
     "概率论/知识点.md",
@@ -179,7 +180,6 @@
     "高数/中值定理，微分等式与微分不等式.md",
     "未命名.md",
     "专业课/重点.md",
-    "专业课/密码学.md",
     "线代/答案.md",
     "线代/线代.md"
   ]
