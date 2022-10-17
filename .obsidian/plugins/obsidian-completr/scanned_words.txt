@@ -47,6 +47,7 @@ smodp
 se
 sqrt
 syafk
+sb
 ffgbnz
 fs
 frac
@@ -93,6 +94,7 @@ GF
 Rcon
 Rc
 RSA
+Rightarrow
 ECB
 ElGamal
 ECC
