@@ -56,7 +56,19 @@
             }
           },
           {
-            "id": "f7e92d493e4daee9",
+            "id": "613207bd4c9829ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业课/计算机网络重点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d77b5fd9ae91e90f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -189,8 +201,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f7e92d493e4daee9",
+  "active": "d77b5fd9ae91e90f",
   "lastOpenFiles": [
+    "专业课/计算机网络重点.md",
     "专业课/密码学重点.md",
     "专业课/计算机网络.md",
     "概率论/概率论.md",
@@ -199,7 +212,6 @@
     "概率论/知识点.md",
     "线代/线代.md",
     "高数/多元函数微分.md",
-    "线代/线代基本功.md",
-    "高数/答案.md"
+    "线代/线代基本功.md"
   ]
 }
