@@ -29,6 +29,7 @@ modq
 ma
 mrti
 mnvudy
+min
 bg
 background
 br
@@ -104,6 +105,7 @@ xhtygb
 xf
 xfm
 xzac
+xgaa
 uyc
 uzls
 usih
