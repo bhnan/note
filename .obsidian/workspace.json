@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "613207bd4c9829ef",
+  "active": "ffa4d2e2dc98e9b3",
   "lastOpenFiles": [
     "专业课/计算机网络.md",
     "专业课/计算机网络重点.md",
