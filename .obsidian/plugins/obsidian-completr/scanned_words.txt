@@ -179,6 +179,8 @@ ksmod
 ks
 koj
 ka
+kmc
+kdc
 rx
 rmodp
 rfxlma
