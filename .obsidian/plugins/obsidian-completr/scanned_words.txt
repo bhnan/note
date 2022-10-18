@@ -30,6 +30,7 @@ ma
 mrti
 mnvudy
 min
+mu
 bg
 background
 br
@@ -50,6 +51,7 @@ hk
 hash
 hwbpg
 hae
+hchus
 em
 ed
 end
@@ -110,6 +112,7 @@ uyc
 uzls
 usih
 up
+uzwm
 Feistel
 FFF
 dzyi
@@ -122,6 +125,7 @@ drjrki
 dinnkb
 DES
 Diffie
+DX
 gzfhlx
 gek
 get
@@ -141,6 +145,8 @@ coq
 ztb
 zu
 zooxm
+zl
+zbg
 GF
 Rcon
 Rc
@@ -149,6 +155,8 @@ Rightarrow
 ECB
 ElGamal
 ECC
+ET
+EX
 OFB
 wsqqjw
 wmodq
@@ -167,6 +175,7 @@ kmodp
 ksmod
 ks
 koj
+ka
 rx
 rmodp
 rfxlma
@@ -178,11 +187,13 @@ tshrp
 tyjelr
 tp
 txn
+te
 Kerberos
 TGS
 le
 lambda
 lt
+ln
 XY
 oii
 oguu
