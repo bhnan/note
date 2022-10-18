@@ -97,6 +97,7 @@ CFB
 CTR
 Cx
 Cov
+CRC
 BC
 xag
 xppwmt
@@ -118,6 +119,7 @@ up
 uzwm
 Feistel
 FFF
+FCS
 dzyi
 duhnjg
 dX
