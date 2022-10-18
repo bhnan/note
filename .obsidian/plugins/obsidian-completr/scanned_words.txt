@@ -38,6 +38,7 @@ begin
 because
 bv
 bnjt
+bar
 yna
 yp
 ycc
@@ -58,6 +59,7 @@ end
 es
 efpsjt
 efaj
+ecyp
 nsam
 na
 nrmp
@@ -94,6 +96,7 @@ CBC
 CFB
 CTR
 Cx
+Cov
 BC
 xag
 xppwmt
