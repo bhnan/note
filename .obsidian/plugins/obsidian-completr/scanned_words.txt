@@ -4,6 +4,7 @@ ie
 ilc
 int
 infty
+iso
 png
 pa
 pg
@@ -48,6 +49,7 @@ se
 sqrt
 syafk
 sb
+session
 ffgbnz
 fs
 frac

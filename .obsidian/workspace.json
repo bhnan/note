@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "93632af9e3edfe27",
+        "type": "tabs",
+        "children": [
           {
             "id": "d161d0b01a977128",
             "type": "leaf",
@@ -30,33 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e3f2a6d3b998637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/计算机网络.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4f19d50e960eedf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/密码学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "概率论/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/密码学.md"
+                "file": "概率论/答案.md"
               }
             }
           }
@@ -178,14 +159,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a4f19d50e960eedf",
+  "active": "d161d0b01a977128",
   "lastOpenFiles": [
     "专业课/计算机网络.md",
+    "专业课/密码学.md",
     "概率论/答案.md",
     "概率论/概率论.md",
     "线代/线代基本功.md",
     "概率论/知识点.md",
-    "专业课/密码学.md",
     "高数/答案.md",
     "高数/中值定理，微分等式与微分不等式.md",
     "未命名.md",
