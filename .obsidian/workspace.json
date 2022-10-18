@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率论/答案.md",
+                "file": "概率论/知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概率论/答案.md",
+                "file": "概率论/知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论/答案.md"
+                "file": "概率论/知识点.md"
               }
             }
           }
@@ -170,7 +171,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d161d0b01a977128",
+  "active": "d780c181350c0bd7",
   "lastOpenFiles": [
     "概率论/概率论.md",
     "概率论/答案.md",
