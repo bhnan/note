@@ -31,6 +31,7 @@ mrti
 mnvudy
 min
 mu
+mac
 bg
 background
 br
@@ -98,6 +99,7 @@ CTR
 Cx
 Cov
 CRC
+CSMA
 BC
 xag
 xppwmt
