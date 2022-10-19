@@ -23,6 +23,7 @@ pl
 psle
 pfbywx
 pm
+prod
 md
 mark
 mod
@@ -35,6 +36,7 @@ mnvudy
 min
 mu
 mac
+mnem
 bg
 background
 br
@@ -155,6 +157,7 @@ cdots
 cztw
 cz
 coq
+chi
 ztb
 zu
 zooxm
