@@ -11,6 +11,7 @@ iniplh
 ii
 is
 ip
+igxgf
 png
 pa
 pg
@@ -63,6 +64,7 @@ es
 efpsjt
 efaj
 ecyp
+epsilon
 nsam
 na
 nrmp
@@ -83,6 +85,7 @@ syafk
 sb
 session
 szxa
+sum
 ffgbnz
 fs
 frac
@@ -132,6 +135,7 @@ dx
 dn
 drjrki
 dinnkb
+dhgo
 DES
 Diffie
 DX
@@ -179,6 +183,7 @@ align
 alpha
 akq
 amezr
+arctan
 kG
 kQ
 kmodp
@@ -200,12 +205,15 @@ tyjelr
 tp
 txn
 te
+to
 Kerberos
 TGS
 le
 lambda
 lt
 ln
+lim
+limits
 XY
 oii
 oguu
