@@ -25,6 +25,7 @@ pfbywx
 pm
 prod
 pwf
+partial
 md
 mark
 mod
@@ -38,6 +39,7 @@ min
 mu
 mac
 mnem
+max
 bg
 background
 br
@@ -152,6 +154,7 @@ gw
 gjoy
 gttqjw
 gcvyeg
+gype
 ckp
 clt
 cases
@@ -232,3 +235,4 @@ ou
 ja
 jtqqn
 jf
+jxse
