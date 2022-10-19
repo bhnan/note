@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/密码学重点.md",
+                "file": "专业课/密码学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/密码学重点.md",
+                "file": "专业课/密码学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/密码学重点.md"
+                "file": "专业课/密码学.md"
               }
             }
           }
@@ -160,10 +161,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1ff8d502ecf452c1",
+  "active": "8665dead9a5e488f",
   "lastOpenFiles": [
-    "专业课/密码学.md",
     "专业课/密码学重点.md",
+    "专业课/密码学.md",
     "高数/答案.md",
     "概率论/概率论.md",
     "概率论/知识点.md",
