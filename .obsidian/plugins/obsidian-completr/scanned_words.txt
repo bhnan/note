@@ -218,6 +218,7 @@ Rcon
 Rc
 RSA
 Rightarrow
+Robin
 ECB
 ElGamal
 ECC
