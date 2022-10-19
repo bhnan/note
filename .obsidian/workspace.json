@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "d161d0b01a977128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概率论/答案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d780c181350c0bd7",
             "type": "leaf",
             "state": {
@@ -42,45 +30,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b52a8d7c3b4df4b8",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c4ef5638be1a7ccb",
+            "id": "d161d0b01a977128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/密码学重点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "613207bd4c9829ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/计算机网络重点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d77b5fd9ae91e90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/计算机网络.md",
+                "file": "概率论/答案.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/密码学重点.md",
+                "file": "概率论/概率论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/密码学重点.md",
+                "file": "概率论/概率论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/密码学重点.md"
+                "file": "概率论/概率论.md"
               }
             }
           }
@@ -202,14 +171,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c4ef5638be1a7ccb",
+  "active": "bbf77267f005cc6e",
   "lastOpenFiles": [
+    "概率论/答案.md",
     "概率论/概率论.md",
+    "概率论/知识点.md",
+    "专业课/密码学重点.md",
     "专业课/计算机网络.md",
     "专业课/计算机网络重点.md",
-    "专业课/密码学重点.md",
-    "概率论/知识点.md",
-    "概率论/答案.md",
     "专业课/密码学.md",
     "线代/线代.md",
     "高数/多元函数微分.md",
