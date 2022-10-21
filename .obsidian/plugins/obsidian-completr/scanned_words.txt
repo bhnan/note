@@ -1,6 +1,7 @@
 Pasted
 Phi
 Playfair
+PPP
 image
 ie
 ilc
@@ -235,6 +236,7 @@ Miller
 Mx
 Hellman
 Hill
+HDLC
 align
 alpha
 akq
