@@ -137,6 +137,7 @@ Cov
 CRC
 CSMA
 BC
+BGP
 xag
 xppwmt
 xh
@@ -220,6 +221,7 @@ Rc
 RSA
 Rightarrow
 Robin
+RIP
 ECB
 ElGamal
 ECC
