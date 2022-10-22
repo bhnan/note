@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "专业课/数据结构.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "专业课/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "专业课/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/一元函数积分学.md"
+                "file": "专业课/数据结构.md"
               }
             }
           }
@@ -142,6 +142,7 @@
   },
   "active": "f62188bd58a10e48",
   "lastOpenFiles": [
+    "高数/一元函数积分学.md",
     "高数/答案.md",
     "高数/中值定理，微分等式与微分不等式.md",
     "草稿.md",
@@ -150,7 +151,6 @@
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
     "专业课/密码学.md",
-    "概率论/概率论.md",
-    "概率论/知识点.md"
+    "概率论/概率论.md"
   ]
 }
