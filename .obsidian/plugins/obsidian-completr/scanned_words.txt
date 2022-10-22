@@ -223,6 +223,7 @@ RSA
 Rightarrow
 Robin
 RIP
+RC
 ECB
 ElGamal
 ECC
@@ -298,3 +299,5 @@ jtqqn
 jf
 jxse
 jr
+jk
+LFSR
