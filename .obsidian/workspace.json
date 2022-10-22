@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "073eff8e89f2c8c1",
+        "id": "02f99ad3f4bf473f",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb93eec09ade951",
+            "id": "f62188bd58a10e48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e7193439d0e2f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高数/答案.md",
+                "file": "高数/一元函数积分学.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md",
+                "file": "高数/一元函数积分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md",
+                "file": "高数/一元函数积分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md"
+                "file": "高数/一元函数积分学.md"
               }
             }
           }
@@ -152,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1eb93eec09ade951",
+  "active": "f62188bd58a10e48",
   "lastOpenFiles": [
     "高数/答案.md",
     "高数/中值定理，微分等式与微分不等式.md",
