@@ -17,6 +17,8 @@ iuhvam
 iqc
 iy
 iqxnc
+ignqsb
+iaw
 png
 pa
 pg
@@ -49,6 +51,8 @@ mnem
 max
 ml
 mj
+mvag
+mou
 bg
 background
 br
@@ -69,6 +73,7 @@ yazceg
 yi
 ydny
 ybyhgx
+yt
 hdq
 hk
 hash
@@ -115,6 +120,7 @@ szxa
 sum
 sll
 sowc
+sp
 ffgbnz
 fs
 frac
@@ -154,6 +160,7 @@ xzac
 xgaa
 xnyiys
 xcp
+xum
 uyc
 uzls
 usih
@@ -163,6 +170,8 @@ uid
 um
 uzvyeq
 uctj
+ua
+ucw
 Feistel
 FFF
 FCS
@@ -179,6 +188,7 @@ dhgo
 dum
 dm
 dfa
+ds
 DES
 Diffie
 DX
@@ -194,6 +204,7 @@ gcvyeg
 gype
 gvm
 gpb
+gm
 ckp
 clt
 cases
@@ -207,6 +218,7 @@ cka
 cboitk
 cyi
 ck
+clx
 ztb
 zu
 zooxm
@@ -216,6 +228,7 @@ zp
 zpr
 zg
 za
+zm
 GF
 Rcon
 Rc
@@ -236,6 +249,8 @@ wtug
 wipz
 wk
 wgswjs
+wapumc
+wh
 Miller
 Mx
 Hellman
@@ -247,6 +262,7 @@ akq
 amezr
 arctan
 arcsin
+an
 kG
 kQ
 kmodp
@@ -257,10 +273,12 @@ ka
 kmc
 kdc
 kz
+kob
 rx
 rmodp
 rfxlma
 rmp
+rfnzf
 therefore
 tpys
 tygd
@@ -274,6 +292,8 @@ to
 theta
 thm
 tiwom
+tmp
+th
 Kerberos
 TGS
 le
@@ -283,6 +303,7 @@ ln
 lim
 limits
 ltyw
+lz
 XY
 oii
 oguu
@@ -294,10 +315,12 @@ ou
 oz
 os
 oifd
+okfw
 ja
 jtqqn
 jf
 jxse
 jr
 jk
+jv
 LFSR
