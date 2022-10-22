@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "高数/中值定理，微分等式与微分不等式.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -81,14 +81,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "758d874453cc6899",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "80d33fb18291956d",
             "type": "leaf",
             "state": {
@@ -148,10 +140,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1eb93eec09ade951",
+  "active": "80d33fb18291956d",
   "lastOpenFiles": [
-    "专业课/密码学重点.md",
     "高数/中值定理，微分等式与微分不等式.md",
+    "专业课/密码学重点.md",
     "未命名.md",
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
