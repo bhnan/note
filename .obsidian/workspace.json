@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db142cc65bf17a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高数/答案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md",
+                "file": "高数/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md",
+                "file": "高数/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/中值定理，微分等式与微分不等式.md"
+                "file": "高数/答案.md"
               }
             }
           }
@@ -140,11 +153,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1eb93eec09ade951",
+  "active": "db142cc65bf17a71",
   "lastOpenFiles": [
-    "草稿.md",
     "高数/中值定理，微分等式与微分不等式.md",
     "高数/答案.md",
+    "草稿.md",
     "专业课/密码学重点.md",
     "未命名.md",
     "专业课/数据结构.md",
