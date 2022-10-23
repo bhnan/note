@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -152,7 +152,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "881be3c11fcd5c2d",
+  "active": "ffa4d2e2dc98e9b3",
   "lastOpenFiles": [
     "高数/答案.md",
     "高数/一元函数积分学.md",
