@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "section:(#计算量)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -152,7 +152,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ffa4d2e2dc98e9b3",
+  "active": "edaf6ded808d8200",
   "lastOpenFiles": [
     "高数/答案.md",
     "高数/一元函数积分学.md",
