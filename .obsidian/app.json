@@ -4,5 +4,6 @@
   "attachmentFolderPath": "附件",
   "promptDelete": false,
   "defaultViewMode": "source",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }

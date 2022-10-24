@@ -62,6 +62,7 @@ bv
 bnjt
 bar
 bak
+bc
 yna
 yp
 ycc
@@ -231,6 +232,7 @@ zg
 za
 zm
 zh
+zn
 GF
 Rcon
 Rc
@@ -265,6 +267,7 @@ amezr
 arctan
 arcsin
 an
+aa
 kG
 kQ
 kmodp

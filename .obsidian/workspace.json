@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7058e96d2c6639e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       },
@@ -161,8 +169,8 @@
   },
   "active": "881be3c11fcd5c2d",
   "lastOpenFiles": [
-    "高数/答案.md",
     "高数/一元函数积分学.md",
+    "高数/答案.md",
     "线代/线代.md",
     "专业课/数据结构.md",
     "专业课/名词解释.md",
