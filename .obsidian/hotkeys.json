@@ -66,5 +66,14 @@
       ],
       "key": "-"
     }
+  ],
+  "obsidian-completr:completr-open-suggestion-popup": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
   ]
 }
