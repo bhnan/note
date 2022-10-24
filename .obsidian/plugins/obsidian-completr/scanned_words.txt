@@ -229,6 +229,7 @@ zpr
 zg
 za
 zm
+zh
 GF
 Rcon
 Rc
