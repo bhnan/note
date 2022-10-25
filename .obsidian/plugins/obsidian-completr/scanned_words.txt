@@ -123,6 +123,7 @@ sum
 sll
 sowc
 sp
+siod
 ffgbnz
 fs
 frac
