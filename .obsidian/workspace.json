@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9b762159e65301",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00607c24524e83af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高数/一元函数积分学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a1821111f592df75",
         "type": "tabs",
         "children": [
@@ -158,15 +140,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4bea45e50b7768e8",
+  "active": "edaf6ded808d8200",
   "lastOpenFiles": [
-    "高数/一元函数积分学.md",
+    "高数/积分等式与不等式.md",
     "日记/2022-10-25.md",
+    "高数/多元函数微分.md",
+    "高数/一元函数积分学.md",
     "高数/答案.md",
     "高数/重点.md",
     "().md",
-    "高数/多元函数微分.md",
-    "高数/积分等式与不等式.md",
     "线代/线代.md",
     "专业课/数据结构.md",
     "专业课/名词解释.md"
