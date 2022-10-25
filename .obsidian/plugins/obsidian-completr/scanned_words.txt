@@ -111,6 +111,7 @@ qpika
 qxn
 qx
 qjy
+qw
 style
 sr
 smodp
@@ -287,6 +288,7 @@ kmc
 kdc
 kz
 kob
+ki
 rx
 rmodp
 rfxlma
