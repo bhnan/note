@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "高数/积分等式与不等式.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -140,9 +140,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "edaf6ded808d8200",
+  "active": "c8ef125b11abb33b",
   "lastOpenFiles": [
     "高数/答案.md",
+    "高数/积分等式与不等式.md",
     "高数/一元函数积分学.md",
     "高数/重点.md",
     "线代/线代.md",
@@ -150,7 +151,6 @@
     "专业课/名词解释.md",
     "专业课/密码学.md",
     "专业课/计算机网络.md",
-    "专业课/计算机网络重点.md",
-    "专业课/密码学重点.md"
+    "专业课/计算机网络重点.md"
   ]
 }
