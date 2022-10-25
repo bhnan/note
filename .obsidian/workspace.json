@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "高数/积分等式与不等式.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "475c6a95be57f293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高数/重点.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/积分等式与不等式.md",
+                "file": "高数/重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/积分等式与不等式.md",
+                "file": "高数/重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/积分等式与不等式.md"
+                "file": "高数/重点.md"
               }
             }
           }
@@ -140,12 +153,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c8ef125b11abb33b",
+  "active": "475c6a95be57f293",
   "lastOpenFiles": [
-    "高数/答案.md",
     "高数/积分等式与不等式.md",
-    "高数/一元函数积分学.md",
     "高数/重点.md",
+    "高数/答案.md",
+    "高数/一元函数积分学.md",
     "线代/线代.md",
     "专业课/数据结构.md",
     "专业课/名词解释.md",
