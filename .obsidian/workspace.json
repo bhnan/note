@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "高数/重点.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "高数/重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "高数/重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/一元函数积分学.md"
+                "file": "高数/重点.md"
               }
             }
           }
@@ -142,15 +141,15 @@
   },
   "active": "00607c24524e83af",
   "lastOpenFiles": [
-    "高数/重点.md",
     "高数/一元函数积分学.md",
+    "日记/2022-10-25.md",
+    "高数/重点.md",
     "().md",
     "高数/多元函数微分.md",
     "高数/答案.md",
     "高数/积分等式与不等式.md",
     "线代/线代.md",
     "专业课/数据结构.md",
-    "专业课/名词解释.md",
-    "专业课/密码学.md"
+    "专业课/名词解释.md"
   ]
 }

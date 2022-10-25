@@ -75,5 +75,13 @@
       ],
       "key": " "
     }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
   ]
 }
