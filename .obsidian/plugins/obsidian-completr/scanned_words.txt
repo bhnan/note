@@ -125,6 +125,7 @@ sll
 sowc
 sp
 siod
+sy
 ffgbnz
 fs
 frac
@@ -308,6 +309,7 @@ thm
 tiwom
 tmp
 th
+tw
 Kerberos
 TGS
 le
