@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "45ca2aa80b08fe31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高数/答案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "475c6a95be57f293",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/多元函数微分.md",
+                "file": "高数/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/多元函数微分.md",
+                "file": "高数/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/多元函数微分.md"
+                "file": "高数/答案.md"
               }
             }
           }
@@ -152,10 +165,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c8ef125b11abb33b",
+  "active": "45ca2aa80b08fe31",
   "lastOpenFiles": [
-    "高数/积分等式与不等式.md",
     "高数/多元函数微分.md",
+    "高数/积分等式与不等式.md",
     "高数/重点.md",
     "高数/答案.md",
     "高数/一元函数积分学.md",
