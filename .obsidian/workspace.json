@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/重点.md",
+                "file": "高数/一元函数积分学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1821111f592df75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bea45e50b7768e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2022-10-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/重点.md",
+                "file": "日记/2022-10-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/重点.md",
+                "file": "日记/2022-10-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/重点.md"
+                "file": "日记/2022-10-25.md"
               }
             }
           }
@@ -139,14 +158,14 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "00607c24524e83af",
+  "active": "4bea45e50b7768e8",
   "lastOpenFiles": [
     "高数/一元函数积分学.md",
     "日记/2022-10-25.md",
+    "高数/答案.md",
     "高数/重点.md",
     "().md",
     "高数/多元函数微分.md",
-    "高数/答案.md",
     "高数/积分等式与不等式.md",
     "线代/线代.md",
     "专业课/数据结构.md",
