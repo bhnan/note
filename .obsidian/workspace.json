@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/重点.md",
+                "file": "高数/积分等式与不等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/重点.md",
+                "file": "高数/积分等式与不等式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/重点.md"
+                "file": "高数/积分等式与不等式.md"
               }
             }
           }
@@ -153,10 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "475c6a95be57f293",
+  "active": "c8ef125b11abb33b",
   "lastOpenFiles": [
-    "高数/积分等式与不等式.md",
     "高数/重点.md",
+    "高数/积分等式与不等式.md",
     "高数/答案.md",
     "高数/一元函数积分学.md",
     "线代/线代.md",
