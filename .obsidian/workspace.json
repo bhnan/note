@@ -96,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,9 +174,9 @@
   },
   "active": "853d8797bc80b618",
   "lastOpenFiles": [
-    "高数/一元函数积分学.md",
     "高数/答案.md",
     "高数/重点.md",
+    "高数/一元函数积分学.md",
     "线代/线代.md",
     "专业课/数据结构.md",
     "专业课/名词解释.md",
