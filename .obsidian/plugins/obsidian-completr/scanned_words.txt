@@ -21,6 +21,8 @@ iqxnc
 ignqsb
 iaw
 ipv
+icmp
+imap
 png
 pa
 pg
@@ -37,6 +39,7 @@ pwf
 partial
 pmhpnr
 ppp
+pop
 md
 mark
 mod
@@ -130,6 +133,7 @@ sowc
 sp
 siod
 sy
+smtp
 ffgbnz
 fs
 frac
@@ -144,6 +148,7 @@ vhyhc
 AB
 AES
 AS
+ARP
 CD
 CBC
 CFB
@@ -184,10 +189,12 @@ uzvyeq
 uctj
 ua
 ucw
+udp
 Feistel
 FFF
 FCS
 FF
+FTP
 dzyi
 duhnjg
 dX
@@ -201,11 +208,13 @@ dum
 dm
 dfa
 ds
+dns
 DES
 Diffie
 DX
 DSSS
 DCF
+DHCP
 gzfhlx
 gek
 get
@@ -256,6 +265,7 @@ Rightarrow
 Robin
 RIP
 RC
+RTT
 ECB
 ElGamal
 ECC
@@ -263,6 +273,7 @@ ET
 EX
 OFB
 OFDM
+OSPF
 wsqqjw
 wmodq
 wtug
@@ -319,6 +330,7 @@ tiwom
 tmp
 th
 tw
+tcp
 Kerberos
 TGS
 le
