@@ -2,6 +2,7 @@ Pasted
 Phi
 Playfair
 PPP
+PCF
 image
 ie
 ilc
@@ -19,6 +20,7 @@ iy
 iqxnc
 ignqsb
 iaw
+ipv
 png
 pa
 pg
@@ -150,6 +152,7 @@ Cx
 Cov
 CRC
 CSMA
+CA
 BC
 BGP
 xag
@@ -201,6 +204,8 @@ ds
 DES
 Diffie
 DX
+DSSS
+DCF
 gzfhlx
 gek
 get
@@ -257,6 +262,7 @@ ECC
 ET
 EX
 OFB
+OFDM
 wsqqjw
 wmodq
 wtug
