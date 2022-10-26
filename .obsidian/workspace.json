@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "日记/2022-10-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "日记/2022-10-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/计算机网络重点.md"
+                "file": "日记/2022-10-26.md"
               }
             }
           }
@@ -165,10 +164,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f37b6ab5da9666b3",
+  "active": "a1f3b48be84d2028",
   "lastOpenFiles": [
-    "专业课/计算机网络.md",
     "专业课/计算机网络重点.md",
+    "专业课/计算机网络.md",
     "日记/2022-10-26.md",
     "日记/2022-10-25.md",
     "高数/重点.md",
