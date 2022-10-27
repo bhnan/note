@@ -30,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "08e9b3a9469ead51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高数/一元函数积分学.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6ecf22add07c3449",
@@ -112,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "高数/多元函数微分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/一元函数积分学.md",
+                "file": "高数/多元函数微分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/一元函数积分学.md"
+                "file": "高数/多元函数微分.md"
               }
             }
           }
@@ -182,17 +170,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "08e9b3a9469ead51",
+  "active": "f37b6ab5da9666b3",
   "lastOpenFiles": [
     "高数/答案.md",
     "高数/多元函数微分.md",
     "日记/2022-10-27.md",
+    "高数/一元函数积分学.md",
+    "高数/重点.md",
     "专业课/计算机网络重点.md",
     "日记/2022-10-26.md",
     "专业课/计算机网络.md",
     "日记/2022-10-25.md",
-    "高数/重点.md",
-    "高数/一元函数积分学.md",
     "高数/积分等式与不等式.md"
   ]
 }
