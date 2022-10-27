@@ -40,6 +40,7 @@ partial
 pmhpnr
 ppp
 pop
+pmag
 md
 mark
 mod
@@ -120,6 +121,7 @@ qxn
 qx
 qjy
 qw
+qa
 style
 sr
 smodp
