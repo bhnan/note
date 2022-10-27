@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0abf6c3838c7e300",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "高数/答案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "422d9e154d9df20c",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/答案.md",
+                "file": "高数/多元函数微分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/答案.md",
+                "file": "高数/多元函数微分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/答案.md"
+                "file": "高数/多元函数微分.md"
               }
             }
           }
@@ -162,10 +149,10 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "0abf6c3838c7e300",
+  "active": "f37b6ab5da9666b3",
   "lastOpenFiles": [
-    "高数/多元函数微分.md",
     "高数/答案.md",
+    "高数/多元函数微分.md",
     "日记/2022-10-27.md",
     "高数/一元函数积分学.md",
     "高数/重点.md",
