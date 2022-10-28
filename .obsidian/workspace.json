@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/2022-10-27.md",
+                "file": "高数/多元函数微分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/2022-10-27.md",
+                "file": "高数/多元函数微分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2022-10-27.md"
+                "file": "高数/多元函数微分.md"
               }
             }
           }
@@ -149,10 +150,10 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "5f1acb26b49241f6",
+  "active": "edb9a77fe8c25aad",
   "lastOpenFiles": [
-    "高数/多元函数微分.md",
     "日记/2022-10-27.md",
+    "高数/多元函数微分.md",
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
     "日记/2022-10-26.md",
