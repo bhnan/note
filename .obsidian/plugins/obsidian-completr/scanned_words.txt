@@ -122,6 +122,7 @@ qx
 qjy
 qw
 qa
+qxsh
 style
 sr
 smodp
