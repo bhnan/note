@@ -41,6 +41,7 @@ pmhpnr
 ppp
 pop
 pmag
+pn
 md
 mark
 mod
