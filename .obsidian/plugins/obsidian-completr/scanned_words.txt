@@ -96,6 +96,7 @@ hrb
 hxt
 hwg
 hximx
+hd
 em
 ed
 end
@@ -186,6 +187,7 @@ xcp
 xum
 xwks
 xfb
+xx
 uyc
 uzls
 usih

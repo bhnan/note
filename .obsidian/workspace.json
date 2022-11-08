@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "5c45afb4bfb66c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bb770ca349ee2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线代/答案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线代/线代.md",
+                "file": "线代/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线代/线代.md",
+                "file": "线代/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线代/线代.md"
+                "file": "线代/答案.md"
               }
             }
           }
@@ -137,12 +155,12 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "edaf6ded808d8200",
+  "active": "0bb770ca349ee2e6",
   "lastOpenFiles": [
-    "概率论/概率论.md",
-    "专业课/数据结构.md",
     "线代/线代.md",
     "线代/答案.md",
+    "概率论/概率论.md",
+    "专业课/数据结构.md",
     "线代/证明.md",
     "专业课/计算机网络重点.md",
     "草稿.md",
