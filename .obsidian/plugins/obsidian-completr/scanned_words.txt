@@ -107,6 +107,7 @@ ecyp
 epsilon
 er
 exawqs
+ef
 nsam
 na
 nrmp
@@ -349,6 +350,7 @@ tmp
 th
 tw
 tcp
+tbn
 Kerberos
 TGS
 TCP
