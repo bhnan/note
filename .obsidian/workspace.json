@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "c9bdbffc2cd4bf2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e3a17846430e2db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线代/答案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
