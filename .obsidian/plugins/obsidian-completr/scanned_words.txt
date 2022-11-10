@@ -147,6 +147,7 @@ sp
 siod
 sy
 smtp
+sq
 ffgbnz
 fs
 frac
@@ -195,6 +196,7 @@ xwks
 xfb
 xx
 xvwg
+xur
 uyc
 uzls
 usih
@@ -315,6 +317,7 @@ arcsin
 an
 aa
 aqqc
+aq
 kG
 kQ
 kmodp
@@ -383,6 +386,7 @@ os
 oifd
 okfw
 oas
+oj
 ja
 jtqqn
 jf
