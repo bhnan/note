@@ -42,6 +42,7 @@ ppp
 pop
 pmag
 pn
+pc
 md
 mark
 mod
@@ -303,6 +304,7 @@ wk
 wgswjs
 wapumc
 wh
+wnf
 Miller
 Mx
 Hellman
