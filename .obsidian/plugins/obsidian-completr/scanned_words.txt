@@ -61,6 +61,7 @@ mj
 mvag
 mou
 mcb
+mqyizs
 bg
 background
 br
@@ -352,6 +353,7 @@ th
 tw
 tcp
 tbn
+tabkmb
 Kerberos
 TGS
 TCP
@@ -386,4 +388,5 @@ jr
 jk
 jv
 jnj
+jzmi
 LFSR
