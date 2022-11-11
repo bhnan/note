@@ -23,6 +23,7 @@ iaw
 ipv
 icmp
 imap
+ikr
 png
 pa
 pg
@@ -64,6 +65,7 @@ mou
 mcb
 mqyizs
 mlc
+mzfuwn
 bg
 background
 br
