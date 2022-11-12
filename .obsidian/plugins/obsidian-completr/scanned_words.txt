@@ -157,6 +157,7 @@ sy
 smtp
 sq
 sfl
+sewaq
 ffgbnz
 fs
 frac
