@@ -238,6 +238,7 @@ dm
 dfa
 ds
 dns
+dpi
 DES
 Diffie
 DX
@@ -416,4 +417,5 @@ jk
 jv
 jnj
 jzmi
+jh
 LFSR
