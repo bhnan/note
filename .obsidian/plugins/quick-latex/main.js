@@ -43,7 +43,7 @@ const DEFAULT_SETTINGS = {
     addAlignBlock_toggle: true,
     addAlignBlock_parameter: "align*",
     addMatrixBlock_toggle: true,
-    addMatrixBlock_parameter: "pmatrix",
+    addMatrixBlock_parameter: "bmatrix",
     addCasesBlock_toggle: true,
     autoFraction_toggle: true,
     autoLargeBracket_toggle: true,
@@ -1544,7 +1544,7 @@ class QuickLatexSettingTab extends obsidian.PluginSettingTab {
         })));
         new obsidian.Setting(containerEl)
             .setName('Shortcut for Matrix Block')
-            .setDesc('Use shortcut key to quickly  insert \\begin{pmatrix} \\end{pmatrix} block. ' +
+            .setDesc('Use shortcut key to quickly  insert \\begin{bmatrix} \\end{bmatrix} block. ' +
             'Default: "Alt+Shift+M" (Mac: "Option+Shift+M")')
             .addToggle((toggle) => toggle
             .setValue(this.plugin.settings.addMatrixBlock_toggle)
@@ -1557,7 +1557,7 @@ class QuickLatexSettingTab extends obsidian.PluginSettingTab {
             .setName('Matrix Block Parameter')
             .setDesc('Set the text parameter in \\begin{parameter} and \\end{parameter}.')
             .addText((text) => text
-            .setPlaceholder('default: pmatrix')
+            .setPlaceholder('default: bmatrix')
             .setValue(this.plugin.settings.addMatrixBlock_parameter)
             .onChange((value) => __awaiter(this, void 0, void 0, function* () {
             this.plugin.settings.addMatrixBlock_parameter = value;
