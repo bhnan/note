@@ -44,6 +44,7 @@ pop
 pmag
 pn
 pc
+pzt
 md
 mark
 mod
@@ -115,6 +116,7 @@ er
 exawqs
 ef
 ewpigc
+eek
 nsam
 na
 nrmp
