@@ -164,6 +164,7 @@ frac
 fqe
 fp
 fevz
+fci
 vha
 vnvrt
 vbyvu
