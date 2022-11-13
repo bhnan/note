@@ -110,8 +110,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -148,14 +148,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 753,
     "collapsed": true
   },
-  "active": "215ed78a54799db1",
+  "active": "e2c554c6148737a0",
   "lastOpenFiles": [
     "线代/答案.md",
     "线代/线代.md",
