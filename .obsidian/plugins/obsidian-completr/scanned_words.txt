@@ -298,6 +298,7 @@ zm
 zh
 zn
 znb
+zq
 GF
 Rcon
 Rc
