@@ -45,6 +45,7 @@ pmag
 pn
 pc
 pzt
+piknta
 md
 mark
 mod
