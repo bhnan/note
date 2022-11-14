@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4220650fce342553",
+        "id": "65339dc0fd19a47c",
         "type": "tabs",
         "children": [
           {
-            "id": "215ed78a54799db1",
+            "id": "61178681c9d321a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线代/线代.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c0f17bf8e15284fc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "607e8c82dc508a5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线代/答案.md",
+                "file": "概率论/概率论.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线代/线代.md",
+                "file": "概率论/概率论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线代/线代.md",
+                "file": "概率论/概率论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线代/线代.md"
+                "file": "概率论/概率论.md"
               }
             }
           }
@@ -156,17 +138,17 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "215ed78a54799db1",
+  "active": "61178681c9d321a9",
   "lastOpenFiles": [
-    "线代/答案.md",
+    "概率论/答案.md",
+    "概率论/概率论.md",
     "线代/线代.md",
+    "线代/答案.md",
     "高数/一元函数积分学.md",
     "线代/线代基本功.md",
-    "概率论/概率论.md",
     "专业课/数据结构.md",
     "线代/证明.md",
     "专业课/计算机网络重点.md",
-    "草稿.md",
-    "高数/二重积分.md"
+    "草稿.md"
   ]
 }
