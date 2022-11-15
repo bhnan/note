@@ -46,6 +46,7 @@ pn
 pc
 pzt
 piknta
+pgve
 md
 mark
 mod
@@ -160,6 +161,7 @@ smtp
 sq
 sfl
 sewaq
+sigma
 ffgbnz
 fs
 frac
