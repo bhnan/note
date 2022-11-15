@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "3f593fb2530738cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a16e74dc6da1213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概率论/答案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "概率论/答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "概率论/答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论/概率论.md"
+                "file": "概率论/答案.md"
               }
             }
           }
@@ -138,10 +156,10 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "61178681c9d321a9",
+  "active": "1a16e74dc6da1213",
   "lastOpenFiles": [
-    "概率论/答案.md",
     "概率论/概率论.md",
+    "概率论/答案.md",
     "线代/线代.md",
     "线代/答案.md",
     "高数/一元函数积分学.md",
