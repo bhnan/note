@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4e5ffd7c549de231",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f09b7cbf795b7954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概率论/答案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
