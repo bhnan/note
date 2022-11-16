@@ -80,6 +80,7 @@ bar
 bak
 bc
 bvmnw
+bzfpem
 yna
 yp
 ycc
@@ -184,6 +185,7 @@ ARP
 AC
 ABC
 AP
+Ae
 CD
 CBC
 CFB
@@ -249,6 +251,7 @@ dfa
 ds
 dns
 dpi
+dy
 DES
 Diffie
 DX
