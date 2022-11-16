@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#难",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,11 +141,11 @@
   },
   "active": "61178681c9d321a9",
   "lastOpenFiles": [
-    "概率论/答案.md",
+    "高数/一元函数积分学.md",
     "概率论/概率论.md",
+    "概率论/答案.md",
     "线代/线代.md",
     "线代/答案.md",
-    "高数/一元函数积分学.md",
     "线代/线代基本功.md",
     "专业课/数据结构.md",
     "线代/证明.md",
