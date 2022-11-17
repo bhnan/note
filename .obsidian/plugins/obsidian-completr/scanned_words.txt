@@ -84,6 +84,7 @@ bak
 bc
 bvmnw
 bzfpem
+bmatrix
 yna
 yp
 ycc
@@ -112,6 +113,7 @@ hwg
 hximx
 hd
 hf
+hl
 em
 ed
 end
@@ -202,6 +204,7 @@ Cov
 CRC
 CSMA
 CA
+COV
 BC
 BGP
 BA
