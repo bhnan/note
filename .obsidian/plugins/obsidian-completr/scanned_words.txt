@@ -132,6 +132,7 @@ nmvs
 nmai
 nl
 ne
+nozztx
 qgkmmk
 qcembp
 qbqs
@@ -164,6 +165,7 @@ sq
 sfl
 sewaq
 sigma
+sin
 ffgbnz
 fs
 frac
