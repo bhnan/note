@@ -150,6 +150,7 @@ qjy
 qw
 qa
 qxsh
+qxc
 style
 sr
 smodp
@@ -272,6 +273,7 @@ DX
 DSSS
 DCF
 DHCP
+DZ
 gzfhlx
 gek
 get
@@ -335,6 +337,7 @@ ElGamal
 ECC
 ET
 EX
+EZ
 OFB
 OFDM
 OSPF
@@ -391,6 +394,7 @@ rqii
 re
 rrik
 rdrkb
+rho
 therefore
 tpys
 tygd
@@ -431,6 +435,7 @@ lvv
 lgtvt
 XY
 Xe
+XZ
 oii
 oguu
 oot
