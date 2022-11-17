@@ -24,6 +24,8 @@ ipv
 icmp
 imap
 ikr
+iint
+ir
 png
 pa
 pg
@@ -96,6 +98,7 @@ ybyhgx
 yt
 yoy
 yhd
+yf
 hdq
 hk
 hash
@@ -166,6 +169,7 @@ sfl
 sewaq
 sigma
 sin
+sim
 ffgbnz
 fs
 frac
@@ -256,6 +260,7 @@ ds
 dns
 dpi
 dy
+dxdy
 DES
 Diffie
 DX
