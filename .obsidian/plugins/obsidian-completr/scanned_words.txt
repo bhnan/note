@@ -342,6 +342,7 @@ zaa
 zcctrn
 zik
 GF
+Gamma
 Rcon
 Rc
 RSA
@@ -456,6 +457,7 @@ lupbfm
 ll
 lvv
 lgtvt
+lvyt
 XY
 Xe
 XZ
