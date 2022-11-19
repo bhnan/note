@@ -187,6 +187,7 @@ fqe
 fp
 fevz
 fci
+foul
 vha
 vnvrt
 vbyvu
@@ -283,6 +284,7 @@ DSSS
 DCF
 DHCP
 DZ
+DT
 gzfhlx
 gek
 get
