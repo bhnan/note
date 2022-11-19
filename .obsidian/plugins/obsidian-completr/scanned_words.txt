@@ -177,6 +177,7 @@ sewaq
 sigma
 sin
 sim
+siob
 ffgbnz
 fs
 frac
