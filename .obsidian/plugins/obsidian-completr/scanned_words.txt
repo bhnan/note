@@ -257,6 +257,7 @@ uctj
 ua
 ucw
 udp
+uflu
 Feistel
 FFF
 FCS
