@@ -191,6 +191,8 @@ fp
 fevz
 fci
 foul
+ftl
+fc
 vha
 vnvrt
 vbyvu
