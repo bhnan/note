@@ -213,6 +213,7 @@ ABC
 AP
 Ae
 ASK
+AMI
 CD
 CBC
 CFB
@@ -496,3 +497,5 @@ jh
 LFSR
 Qy
 QAM
+NRZI
+NRZL
