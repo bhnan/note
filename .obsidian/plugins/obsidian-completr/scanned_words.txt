@@ -3,6 +3,7 @@ Phi
 Playfair
 PPP
 PCF
+PSK
 image
 ie
 ilc
@@ -211,6 +212,7 @@ AC
 ABC
 AP
 Ae
+ASK
 CD
 CBC
 CFB
@@ -265,6 +267,7 @@ FFF
 FCS
 FF
 FTP
+FSK
 dzyi
 duhnjg
 dX
@@ -492,3 +495,4 @@ jzmi
 jh
 LFSR
 Qy
+QAM
