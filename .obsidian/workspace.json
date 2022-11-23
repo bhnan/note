@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "高数/一元函数积分学.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "高数/一元函数积分学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概率论/概率论.md",
+                "file": "高数/一元函数积分学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概率论/概率论.md"
+                "file": "高数/一元函数积分学.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,15 +139,15 @@
   },
   "active": "4541da1876c884a8",
   "lastOpenFiles": [
+    "总结/2022-10-25.md",
+    "高数/一元函数积分学.md",
+    "概率论/概率论.md",
     "线代/线代.md",
     "高数/积分等式与不等式.md",
     "高数/答案.md",
-    "概率论/概率论.md",
     "概率论/答案.md",
     "高数/中值定理，微分等式与微分不等式.md",
     "专业课/计算机网络重点.md",
-    "高数/一元函数积分学.md",
-    "线代/答案.md",
-    "线代/线代基本功.md"
+    "线代/答案.md"
   ]
 }
