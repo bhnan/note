@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -137,7 +138,7 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "c81972ecc56639ee",
+  "active": "edaf6ded808d8200",
   "lastOpenFiles": [
     "概率论/概率论.md",
     "概率论/答案.md",
