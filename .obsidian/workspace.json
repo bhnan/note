@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5209b9820b0b034",
+        "id": "e091965bdff212db",
         "type": "tabs",
         "children": [
           {
-            "id": "cd711f6cca99e099",
+            "id": "4541da1876c884a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线代/线代.md",
+                "file": "概率论/概率论.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线代/线代.md",
+                "file": "概率论/概率论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "线代/线代.md",
+                "file": "概率论/概率论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线代/线代.md"
+                "file": "概率论/概率论.md"
               }
             }
           }
@@ -138,7 +138,7 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "cd711f6cca99e099",
+  "active": "4541da1876c884a8",
   "lastOpenFiles": [
     "线代/线代.md",
     "高数/积分等式与不等式.md",
