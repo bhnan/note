@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/积分等式与不等式.md",
+                "file": "概率论/概率论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/积分等式与不等式.md",
+                "file": "概率论/概率论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/积分等式与不等式.md"
+                "file": "概率论/概率论.md"
               }
             }
           }
@@ -150,10 +151,10 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "c81972ecc56639ee",
+  "active": "ab0954574fbf64d0",
   "lastOpenFiles": [
-    "概率论/概率论.md",
     "高数/积分等式与不等式.md",
+    "概率论/概率论.md",
     "高数/中值定理，微分等式与微分不等式.md",
     "线代/线代.md",
     "专业课/计算机网络重点.md",
