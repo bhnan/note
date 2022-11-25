@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9bd27c65f6a2d743",
+        "id": "f492ae471b124207",
         "type": "tabs",
         "children": [
           {
-            "id": "5948af92534fa6f8",
+            "id": "af8e448aecfa75a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结/2022-11-24.md",
+                "file": "专业课/计算机网络.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结/2022-11-24.md",
+                "file": "专业课/计算机网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结/2022-11-24.md",
+                "file": "专业课/计算机网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结/2022-11-24.md"
+                "file": "专业课/计算机网络.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "5948af92534fa6f8",
+  "active": "edaf6ded808d8200",
   "lastOpenFiles": [
-    "总结/2022-11-23.md",
+    "专业课/计算机网络重点.md",
     "总结/2022-11-24.md",
+    "总结/2022-11-23.md",
     "线代/线代.md",
     "高数/积分等式与不等式.md",
     "总结/2022-10-25.md",
     "总结/2022-10-26.md",
     "总结/2022-10-27.md",
     "总结/2022-11-01.md",
-    "高数/一元函数积分学.md",
-    "概率论/概率论.md"
+    "高数/一元函数积分学.md"
   ]
 }
