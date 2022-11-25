@@ -424,6 +424,8 @@ rdrkb
 rho
 rdt
 rhlye
+rcos
+rsin
 therefore
 tpys
 tygd
