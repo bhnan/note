@@ -287,6 +287,7 @@ dpi
 dy
 dxdy
 de
+dijkstra
 DES
 Diffie
 DX
@@ -367,6 +368,7 @@ OFB
 OFDM
 OSPF
 OB
+OSFP
 wsqqjw
 wmodq
 wtug
