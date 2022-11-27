@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "草稿.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/计算机网络重点.md"
+                "file": "草稿.md"
               }
             }
           }
@@ -139,8 +139,8 @@
   },
   "active": "26114e79f922a96f",
   "lastOpenFiles": [
-    "专业课/计算机网络.md",
     "专业课/计算机网络重点.md",
+    "专业课/计算机网络.md",
     "总结/2022-11-24.md",
     "总结/2022-11-23.md",
     "线代/线代.md",
