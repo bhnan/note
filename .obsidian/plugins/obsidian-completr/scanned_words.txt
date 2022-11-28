@@ -263,6 +263,7 @@ ua
 ucw
 udp
 uflu
+uk
 Feistel
 FFF
 FCS
