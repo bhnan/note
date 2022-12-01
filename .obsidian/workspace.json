@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "528abe9cd6473ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业课/数据结构.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "专业课/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "专业课/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/计算机网络重点.md"
+                "file": "专业课/数据结构.md"
               }
             }
           }
@@ -137,7 +150,7 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "2d85675992f6d471",
+  "active": "528abe9cd6473ccf",
   "lastOpenFiles": [
     "专业课/计算机网络重点.md",
     "专业课/数据结构.md",
