@@ -8,6 +8,7 @@
   "vimMode": true,
   "spellcheck": true,
   "spellcheckLanguages": [
-    "en-GB"
+    "en-GB",
+    "en-US"
   ]
 }
