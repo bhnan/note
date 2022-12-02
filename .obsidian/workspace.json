@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "07bc5545ba44fb2f",
+        "id": "96c11de54ae76460",
         "type": "tabs",
         "children": [
           {
-            "id": "2d85675992f6d471",
+            "id": "4d65529ca21b3a52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专业课/计算机网络重点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "528abe9cd6473ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "专业课/数据结构.md",
+                "file": "英语.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/数据结构.md",
+                "file": "英语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/数据结构.md",
+                "file": "英语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/数据结构.md"
+                "file": "英语.md"
               }
             }
           }
@@ -150,8 +137,10 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "528abe9cd6473ccf",
+  "active": "4d65529ca21b3a52",
   "lastOpenFiles": [
+    "线代/线代基本功.md",
+    "英语.md",
     "专业课/计算机网络重点.md",
     "专业课/数据结构.md",
     "高数/重点.md",
@@ -159,8 +148,6 @@
     "线代/线代.md",
     "草稿.md",
     "专业课/计算机网络.md",
-    "总结/2022-11-24.md",
-    "总结/2022-11-23.md",
-    "高数/积分等式与不等式.md"
+    "总结/2022-11-24.md"
   ]
 }

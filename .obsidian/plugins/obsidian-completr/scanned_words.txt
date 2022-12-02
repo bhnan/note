@@ -4,6 +4,7 @@ Playfair
 PPP
 PCF
 PSK
+Pick
 image
 ie
 ilc
@@ -27,6 +28,8 @@ imap
 ikr
 iint
 ir
+it
+in
 png
 pa
 pg
@@ -52,6 +55,8 @@ piknta
 pgve
 pll
 pe
+picked
+pace
 md
 mark
 mod
@@ -75,6 +80,8 @@ mqyizs
 mlc
 mzfuwn
 mh
+more
+major
 bg
 background
 br
@@ -89,6 +96,8 @@ bvmnw
 bzfpem
 bmatrix
 bfg
+but
+being
 yna
 yp
 ycc
@@ -105,6 +114,7 @@ yoy
 yhd
 yf
 ykv
+years
 hdq
 hk
 hash
@@ -121,6 +131,8 @@ hf
 hl
 hsia
 htw
+help
+human
 em
 ed
 end
@@ -135,6 +147,9 @@ ef
 ewpigc
 eek
 eg
+environments
+evolution
+environment
 nsam
 na
 nrmp
@@ -184,6 +199,9 @@ sigma
 sin
 sim
 siob
+suggests
+similar
+social
 ffgbnz
 fs
 frac
@@ -194,6 +212,7 @@ fci
 foul
 ftl
 fc
+factor
 vha
 vnvrt
 vbyvu
@@ -214,6 +233,7 @@ AP
 Ae
 ASK
 AMI
+As
 CD
 CBC
 CFB
@@ -224,6 +244,7 @@ CRC
 CSMA
 CA
 COV
+Contributory
 BC
 BGP
 BA
@@ -264,6 +285,8 @@ ucw
 udp
 uflu
 uk
+us
+understand
 Feistel
 FFF
 FCS
@@ -289,6 +312,7 @@ dy
 dxdy
 de
 dijkstra
+draw
 DES
 Diffie
 DX
@@ -332,6 +356,8 @@ cp
 civk
 cf
 cs
+could
+contributory
 ztb
 zu
 zooxm
@@ -380,6 +406,8 @@ wapumc
 wh
 wnf
 wi
+why
+with
 Miller
 Mx
 MAX
@@ -451,9 +479,14 @@ tabkmb
 tk
 times
 tqqqkb
+the
+team
+there
+this
 Kerberos
 TGS
 TCP
+There
 le
 lambda
 lt
@@ -469,6 +502,7 @@ ll
 lvv
 lgtvt
 lvyt
+last
 XY
 Xe
 XZ
@@ -504,3 +538,4 @@ Qy
 QAM
 NRZI
 NRZL
+Studying
