@@ -11,9 +11,11 @@
             "id": "4d65529ca21b3a52",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "附件/英语 2022-12-02 19.54.07.excalidraw.md"
+                "file": "英语.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/英语 2022-12-02 19.54.07.excalidraw.md",
+                "file": "英语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/英语 2022-12-02 19.54.07.excalidraw.md",
+                "file": "英语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/英语 2022-12-02 19.54.07.excalidraw.md"
+                "file": "英语.md"
               }
             }
           }
@@ -137,8 +139,8 @@
   },
   "active": "4d65529ca21b3a52",
   "lastOpenFiles": [
-    "英语.md",
     "附件/英语 2022-12-02 19.54.07.excalidraw.md",
+    "英语.md",
     "线代/线代基本功.md",
     "专业课/计算机网络重点.md",
     "专业课/数据结构.md",
