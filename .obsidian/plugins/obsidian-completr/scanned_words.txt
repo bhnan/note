@@ -5,6 +5,7 @@ PPP
 PCF
 PSK
 Pick
+Polarise
 image
 ie
 ilc
@@ -58,6 +59,11 @@ pe
 picked
 pace
 people
+popularity
+public
+particularly
+polarised
+politics
 md
 mark
 mod
@@ -83,6 +89,11 @@ mzfuwn
 mh
 more
 major
+mean
+magnificent
+majestic
+monarchs
+mere
 bg
 background
 br
@@ -136,6 +147,9 @@ hsia
 htw
 help
 human
+have
+him
+his
 em
 ed
 end
@@ -155,6 +169,10 @@ evolution
 environment
 explain
 ethnic
+embarrassing
+election
+eat
+embody
 nsam
 na
 nrmp
@@ -169,6 +187,7 @@ nozztx
 nhrfho
 npq
 not
+national
 qgkmmk
 qcembp
 qbqs
@@ -209,6 +228,9 @@ suggests
 similar
 social
 simply
+scandals
+stand
+spirit
 ffgbnz
 fs
 frac
@@ -221,6 +243,9 @@ ftl
 fc
 factor
 finding
+forced
+for
+following
 vha
 vnvrt
 vbyvu
@@ -256,6 +281,7 @@ Contributory
 BC
 BGP
 BA
+But
 xag
 xppwmt
 xh
@@ -295,12 +321,15 @@ uflu
 uk
 us
 understand
+uniforms
+unity
 Feistel
 FFF
 FCS
 FF
 FTP
 FSK
+Franco
 dzyi
 duhnjg
 dX
@@ -322,6 +351,7 @@ de
 dijkstra
 draw
 do
+down
 DES
 Diffie
 DX
@@ -330,6 +360,7 @@ DCF
 DHCP
 DZ
 DT
+Does
 gzfhlx
 gek
 get
@@ -367,6 +398,7 @@ cf
 cs
 could
 contributory
+can
 ztb
 zu
 zooxm
@@ -394,12 +426,15 @@ Robin
 RIP
 RC
 RTT
+Rise
 ECB
 ElGamal
 ECC
 ET
 EX
 EZ
+Euro
+European
 OFB
 OFDM
 OSPF
@@ -417,9 +452,14 @@ wnf
 wi
 why
 with
+words
+writing
+wall
+was
 Miller
 Mx
 MAX
+Majestic
 Hellman
 Hill
 HDLC
@@ -434,6 +474,10 @@ aa
 aqqc
 aq
 any
+and
+all
+as
+above
 kG
 kQ
 kmodp
@@ -466,6 +510,11 @@ rdt
 rhlye
 rcos
 rsin
+republican
+recent
+royals
+regime
+rise
 therefore
 tpys
 tygd
@@ -494,6 +543,8 @@ there
 this
 tendency
 those
+that
+their
 Kerberos
 TGS
 TCP
@@ -515,6 +566,8 @@ lvv
 lgtvt
 lvyt
 last
+left
+lifestyle
 XY
 Xe
 XZ
@@ -536,6 +589,8 @@ oczh
 ol
 od
 of
+on
+opinion
 ja
 jtqqn
 jf
@@ -552,3 +607,5 @@ QAM
 NRZI
 NRZL
 Studying
+Stand
+When
