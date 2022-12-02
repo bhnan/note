@@ -1,6 +1,7 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 17,
-  "cssTheme": "Obsidian Nord",
-  "accentColor": ""
+  "cssTheme": "Discordian",
+  "accentColor": "",
+  "translucency": false
 }
