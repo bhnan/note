@@ -5,5 +5,9 @@
   "promptDelete": false,
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US"
+  ]
 }

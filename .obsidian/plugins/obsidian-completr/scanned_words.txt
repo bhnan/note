@@ -57,6 +57,7 @@ pll
 pe
 picked
 pace
+people
 md
 mark
 mod
@@ -98,6 +99,8 @@ bmatrix
 bfg
 but
 being
+befriend
+backgrounds
 yna
 yp
 ycc
@@ -150,6 +153,8 @@ eg
 environments
 evolution
 environment
+explain
+ethnic
 nsam
 na
 nrmp
@@ -163,6 +168,7 @@ ne
 nozztx
 nhrfho
 npq
+not
 qgkmmk
 qcembp
 qbqs
@@ -202,6 +208,7 @@ siob
 suggests
 similar
 social
+simply
 ffgbnz
 fs
 frac
@@ -213,6 +220,7 @@ foul
 ftl
 fc
 factor
+finding
 vha
 vnvrt
 vbyvu
@@ -313,6 +321,7 @@ dxdy
 de
 dijkstra
 draw
+do
 DES
 Diffie
 DX
@@ -483,10 +492,13 @@ the
 team
 there
 this
+tendency
+those
 Kerberos
 TGS
 TCP
 There
+The
 le
 lambda
 lt
@@ -523,6 +535,7 @@ ovhbza
 oczh
 ol
 od
+of
 ja
 jtqqn
 jf
