@@ -41,6 +41,9 @@ implications
 impelled
 increase
 idea
+innocent
+issue
+integrity
 png
 pa
 pg
@@ -92,6 +95,8 @@ papers
 part
 publish
 pass
+phones
+predecessor
 md
 mark
 mod
@@ -151,6 +156,8 @@ be
 board
 by
 broadly
+blew
+brought
 yna
 yp
 ycc
@@ -193,6 +200,8 @@ heart
 has
 her
 had
+hacking
+hack
 em
 ed
 end
@@ -220,6 +229,8 @@ excalidraw
 economists
 even
 ease
+ex
+editor
 nsam
 na
 nrmp
@@ -294,6 +305,9 @@ scientific
 some
 statisticians
 sth
+storms
+same
+stands
 ffgbnz
 fs
 frac
@@ -310,6 +324,9 @@ forced
 for
 following
 families
+far
+finds
+find
 vha
 vnvrt
 vbyvu
@@ -321,6 +338,7 @@ vee
 vflj
 varPhi
 violate
+vessels
 AB
 AES
 AS
@@ -339,6 +357,7 @@ Around
 Amendment
 Americans
 Asked
+Andy
 CD
 CBC
 CFB
@@ -353,10 +372,14 @@ Contributory
 Charles
 Come
 Court
+Coulson
+Conspire
 BC
 BGP
 BA
 But
+Blew
+Brooks
 xag
 xppwmt
 xh
@@ -399,6 +422,7 @@ understand
 uniforms
 unity
 updated
+unbearably
 Feistel
 FFF
 FCS
@@ -407,6 +431,7 @@ FTP
 FSK
 Franco
 Fourth
+Find
 dzyi
 duhnjg
 dX
@@ -441,6 +466,8 @@ doesn
 drawing
 data
 drive
+delay
+dearth
 DES
 Diffie
 DX
@@ -474,6 +501,7 @@ grn
 granny
 guidelines
 go
+guilty
 ckp
 clt
 cases
@@ -504,6 +532,11 @@ challenge
 change
 creation
 concerns
+course
+calm
+concludes
+conspiring
+charge
 ztb
 zu
 zooxm
@@ -534,6 +567,7 @@ RC
 RTT
 Rise
 Rather
+Rebekah
 ECB
 ElGamal
 ECC
@@ -550,6 +584,7 @@ OSPF
 OB
 OSFP
 OPTIONS
+Off
 wsqqjw
 wmodq
 wtug
@@ -577,6 +612,8 @@ without
 warrant
 wallet
 we
+world
+wider
 Miller
 Mx
 MAX
@@ -609,6 +646,7 @@ arrest
 arrestee
 application
 analysis
+adj
 kG
 kQ
 kmodp
@@ -687,6 +725,7 @@ time
 they
 through
 take
+trial
 Kerberos
 TGS
 TCP
@@ -714,6 +753,7 @@ left
 lifestyle
 lawyers
 line
+long
 XY
 Xe
 XZ
@@ -744,6 +784,8 @@ or
 obvious
 often
 overall
+off
+one
 ja
 jtqqn
 jf
@@ -762,11 +804,13 @@ Queen
 NRZI
 NRZL
 Nobility
+News
 Studying
 Stand
 Switch
 Supreme
 Science
+Sometimes
 When
 Warn
 VIEW
