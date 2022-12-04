@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4005d4d497e9ae59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/计算机网络重点.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/计算机网络重点.md"
+                "file": "草稿.md"
               }
             }
           }
@@ -150,10 +162,10 @@
     "width": 753,
     "collapsed": true
   },
-  "active": "f6ff9c3fd3a7abee",
+  "active": "4005d4d497e9ae59",
   "lastOpenFiles": [
-    "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
+    "专业课/数据结构.md",
     "英语.md",
     "附件/英语 2022-12-02 19.54.07.excalidraw.md",
     "线代/线代基本功.md",
