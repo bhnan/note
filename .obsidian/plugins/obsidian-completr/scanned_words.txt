@@ -468,6 +468,7 @@ data
 drive
 delay
 dearth
+dh
 DES
 Diffie
 DX
