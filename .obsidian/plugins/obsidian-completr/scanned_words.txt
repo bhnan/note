@@ -208,6 +208,7 @@ ykv
 years
 you
 yet
+your
 hdq
 hk
 hash
@@ -299,6 +300,7 @@ no
 normal
 never
 negative
+num
 qgkmmk
 qcembp
 qbqs
@@ -403,6 +405,8 @@ fixes
 from
 facing
 fact
+finally
+fields
 vha
 vnvrt
 vbyvu
@@ -517,6 +521,7 @@ FSK
 Franco
 Fourth
 Find
+Foolish
 dzyi
 duhnjg
 dX
@@ -560,6 +565,7 @@ disappointed
 draining
 difficult
 difficulties
+daily
 DES
 Diffie
 DX
@@ -738,6 +744,7 @@ Hellman
 Hill
 HDLC
 Hua
+Hungry
 align
 alpha
 akq
@@ -792,6 +799,7 @@ krmacs
 ku
 knowledge
 keeping
+keep
 rx
 rmodp
 rfxlma
@@ -825,6 +833,8 @@ remind
 reasons
 rendering
 reasonably
+rous
+respective
 therefore
 tpys
 tygd
@@ -869,6 +879,7 @@ trapped
 try
 then
 these
+trand
 Kerberos
 TGS
 TCP
@@ -904,6 +915,7 @@ learning
 live
 learn
 leaving
+lmingly
 XY
 Xe
 XZ
@@ -944,6 +956,7 @@ our
 once
 ought
 obtained
+overwh
 ja
 jtqqn
 jf
@@ -956,8 +969,10 @@ jzmi
 jh
 justices
 journeys
+journey
 LFSR
 LuoGeng
+Luogeng
 Qy
 QAM
 Queen
@@ -975,6 +990,7 @@ Stay
 Steve
 Stanford
 Such
+Setbacks
 When
 Warn
 VIEW
