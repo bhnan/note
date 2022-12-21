@@ -66,19 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4470916e26b71ed7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,7 +198,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4470916e26b71ed7",
+  "active": "77d4909b8cb40704",
   "lastOpenFiles": [
     "草稿.md",
     "专业课/名词解释.md",
