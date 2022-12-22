@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专业课/密码学.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专业课/密码学.md"
+                "file": "草稿.md"
               }
             }
           }
@@ -198,11 +198,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "77d4909b8cb40704",
+  "active": "c7aa4e712c928914",
   "lastOpenFiles": [
+    "专业课/密码学.md",
     "草稿.md",
     "专业课/名词解释.md",
-    "专业课/密码学.md",
     "专业课/密码学重点.md",
     "线代/线代基本功.md",
     "专业课/计算机网络重点.md",
