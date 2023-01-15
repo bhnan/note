@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿.md",
+                "file": "专业课/数据结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿.md",
+                "file": "专业课/数据结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md"
+                "file": "专业课/数据结构.md"
               }
             }
           }
@@ -198,7 +198,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7aa4e712c928914",
+  "active": "edaf6ded808d8200",
   "lastOpenFiles": [
     "专业课/密码学.md",
     "草稿.md",
