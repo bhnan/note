@@ -800,6 +800,7 @@ ku
 knowledge
 keeping
 keep
+knn
 rx
 rmodp
 rfxlma
