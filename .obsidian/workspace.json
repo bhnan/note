@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "165a4d7432678344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公考/申论.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kaggle/kaggle.md",
+                "file": "公考/申论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kaggle/kaggle.md",
+                "file": "公考/申论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kaggle/kaggle.md"
+                "file": "公考/申论.md"
               }
             }
           }
@@ -149,8 +161,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eeddc71a5eb9a42b",
+  "active": "165a4d7432678344",
   "lastOpenFiles": [
+    "kaggle/kaggle.md",
     "专业课/密码学.md",
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
@@ -159,7 +172,6 @@
     "专业课/密码学重点.md",
     "线代/线代基本功.md",
     "英语.md",
-    "高数/一元函数积分学.md",
-    "附件/英语 2022-12-02 19.54.07.excalidraw.md"
+    "高数/一元函数积分学.md"
   ]
 }
