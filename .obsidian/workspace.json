@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3032913481032526",
+        "id": "455389a9a507f7e1",
         "type": "tabs",
         "children": [
           {
-            "id": "eeddc71a5eb9a42b",
+            "id": "b3b7a23481b215e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kaggle/kaggle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "165a4d7432678344",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公考/申论.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13fc5d437466da57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公考/行测.md",
+                "file": "公考/言语表达和理解.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -109,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kaggle/kaggle.md",
+                "file": "公考/言语表达和理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kaggle/kaggle.md",
+                "file": "公考/言语表达和理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kaggle/kaggle.md"
+                "file": "公考/言语表达和理解.md"
               }
             }
           }
@@ -172,17 +149,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eeddc71a5eb9a42b",
+  "active": "b3b7a23481b215e6",
   "lastOpenFiles": [
-    "公考/行测.md",
-    "公考/申论.md",
+    "公考/常识判断.md",
+    "公考/资料分析.md",
+    "公考/数量关系.md",
     "kaggle/kaggle.md",
+    "公考/申论.md",
+    "公考/言语表达和理解.md",
     "专业课/密码学.md",
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
-    "草稿.md",
-    "专业课/名词解释.md",
-    "专业课/密码学重点.md",
-    "线代/线代基本功.md"
+    "草稿.md"
   ]
 }

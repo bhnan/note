@@ -239,6 +239,7 @@ hack
 hungry
 he
 hurting
+hot
 em
 ed
 end
