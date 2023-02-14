@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公考/言语表达和理解.md",
+                "file": "公考/申论.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公考/言语表达和理解.md",
+                "file": "公考/申论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公考/言语表达和理解.md",
+                "file": "公考/申论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公考/言语表达和理解.md"
+                "file": "公考/申论.md"
               }
             }
           }
@@ -151,12 +151,12 @@
   },
   "active": "b3b7a23481b215e6",
   "lastOpenFiles": [
+    "公考/言语表达和理解.md",
     "公考/常识判断.md",
     "公考/资料分析.md",
     "公考/数量关系.md",
     "kaggle/kaggle.md",
     "公考/申论.md",
-    "公考/言语表达和理解.md",
     "专业课/密码学.md",
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
