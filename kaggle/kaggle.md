@@ -13,3 +13,15 @@ knn（k 近邻算法），中位数，均值。
 		2. one-hot（每个类单独作为特征）
 
 ### 特征选择
+
+
+
+
+
+
+
+
+
+EDA (exploratory data analysis)
+Feature engineering 
+	缺失值处理

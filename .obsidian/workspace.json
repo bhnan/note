@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "455389a9a507f7e1",
+        "id": "4e86b889eb506071",
         "type": "tabs",
         "children": [
           {
-            "id": "b3b7a23481b215e6",
+            "id": "c2df3f145a3638e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公考/申论.md",
+                "file": "kaggle/kaggle.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公考/申论.md",
+                "file": "kaggle/kaggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公考/申论.md",
+                "file": "kaggle/kaggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公考/申论.md"
+                "file": "kaggle/kaggle.md"
               }
             }
           }
@@ -149,14 +148,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b3b7a23481b215e6",
+  "active": "c2df3f145a3638e9",
   "lastOpenFiles": [
+    "公考/申论.md",
     "公考/言语表达和理解.md",
     "公考/常识判断.md",
     "公考/资料分析.md",
     "公考/数量关系.md",
     "kaggle/kaggle.md",
-    "公考/申论.md",
     "专业课/密码学.md",
     "专业课/数据结构.md",
     "专业课/计算机网络重点.md",
