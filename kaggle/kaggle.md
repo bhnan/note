@@ -24,4 +24,5 @@ knn（k 近邻算法），中位数，均值。
 
 EDA (exploratory data analysis)
 Feature engineering 
-	缺失值处理
+	缺失值处理（XGboost（基于决策树）自动处理缺失值）
+	一般确保数据正态分布-boxcox（树模型不需要）
