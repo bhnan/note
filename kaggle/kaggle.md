@@ -28,3 +28,5 @@ Feature engineering
 	一般确保数据正态分布-boxcox（树模型不需要）
 	text feature 处理（tf-idf encoding）
 	feature interaction（树模型需要注意）
+model tuning
+model ensemble
