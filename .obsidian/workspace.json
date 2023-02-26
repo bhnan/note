@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64b12edc9cb91a16",
+        "id": "c3534fbd611b06e9",
         "type": "tabs",
         "children": [
           {
-            "id": "65931f142b0bddde",
+            "id": "87bb984e84bf1e9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公考/申论.md",
+                "file": "离散数学/命题逻辑.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "公考/申论.md",
+                "file": "离散数学/命题逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "公考/申论.md",
+                "file": "离散数学/命题逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公考/申论.md"
+                "file": "离散数学/命题逻辑.md"
               }
             }
           }
@@ -149,10 +148,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edaf6ded808d8200",
+  "active": "87bb984e84bf1e9d",
   "lastOpenFiles": [
-    "kaggle/kaggle.md",
     "公考/申论.md",
+    "kaggle/kaggle.md",
     "公考/言语表达和理解.md",
     "公考/常识判断.md",
     "公考/资料分析.md",
