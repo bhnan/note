@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfa55e68f859954a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 286.5,
+    "collapsed": true
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -139,16 +151,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87bb984e84bf1e9d",
+  "active": "cfa55e68f859954a",
   "lastOpenFiles": [
     "公考/申论.md",
     "kaggle/kaggle.md",
