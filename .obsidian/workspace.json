@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cfa55e68f859954a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,7 +149,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cfa55e68f859954a",
+  "active": "87bb984e84bf1e9d",
   "lastOpenFiles": [
     "公考/申论.md",
     "kaggle/kaggle.md",
