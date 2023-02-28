@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学/命题逻辑.md",
+                "file": "离散数学/谓词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学/命题逻辑.md",
+                "file": "离散数学/谓词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/命题逻辑.md"
+                "file": "离散数学/谓词.md"
               }
             }
           }
@@ -161,13 +162,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87bb984e84bf1e9d",
+  "active": "df610439742a6af2",
   "lastOpenFiles": [
+    "离散数学/命题逻辑.md",
     "附件/Pasted image 20230228155303.png",
     "附件/Pasted image 20230227205007.png",
     "离散数学/谓词.md",
     "附件/Pasted image 20230227155333.png",
-    "离散数学/命题逻辑.md",
     "公考/申论.md",
     "kaggle/kaggle.md",
     "公考/言语表达和理解.md",
