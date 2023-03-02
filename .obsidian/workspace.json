@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb253ce47e879d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学/关系.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学/关系.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/关系.md"
+                "file": "草稿.md"
               }
             }
           }
@@ -174,11 +186,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "98b35499c9e17f75",
+  "active": "fb253ce47e879d4f",
   "lastOpenFiles": [
+    "离散数学/关系.md",
+    "草稿.md",
+    "未命名.md",
     "附件/Pasted image 20230301210843.png",
     "离散数学/谓词.md",
-    "离散数学/关系.md",
     "离散数学/命题逻辑.md",
     "附件/Pasted image 20230301094009.png",
     "附件/Pasted image 20230228210638.png",
@@ -195,7 +209,6 @@
     "公考/数量关系.md",
     "专业课/密码学.md",
     "专业课/数据结构.md",
-    "专业课/计算机网络重点.md",
-    "草稿.md"
+    "专业课/计算机网络重点.md"
   ]
 }
