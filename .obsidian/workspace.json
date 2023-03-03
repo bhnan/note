@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "c227756affefd654",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
             "id": "530f2d17d095a1c9",
             "type": "leaf",
             "state": {
@@ -78,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学/代数系统.md",
+                "file": "离散数学/关系.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学/代数系统.md",
+                "file": "离散数学/关系.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/代数系统.md"
+                "file": "离散数学/关系.md"
               }
             }
           }
@@ -208,10 +198,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c227756affefd654",
+  "active": "98b35499c9e17f75",
   "lastOpenFiles": [
-    "离散数学/关系.md",
     "离散数学/代数系统.md",
+    "离散数学/关系.md",
     "草稿.md",
     "未命名.md",
     "附件/Pasted image 20230301210843.png",
