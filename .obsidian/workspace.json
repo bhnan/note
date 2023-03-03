@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "c227756affefd654",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "530f2d17d095a1c9",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,7 +208,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96c37efa3b94fd21",
+  "active": "c227756affefd654",
   "lastOpenFiles": [
     "离散数学/关系.md",
     "离散数学/代数系统.md",
