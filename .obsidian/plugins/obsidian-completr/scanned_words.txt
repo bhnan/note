@@ -577,6 +577,7 @@ draining
 difficult
 difficulties
 daily
+deg
 DES
 Diffie
 DX

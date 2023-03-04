@@ -66,8 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "234aa7c494e7d08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "遗留.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学/命题逻辑.md",
+                "file": "遗留.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学/命题逻辑.md",
+                "file": "遗留.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/命题逻辑.md"
+                "file": "遗留.md"
               }
             }
           }
@@ -197,15 +210,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87bb984e84bf1e9d",
+  "active": "234aa7c494e7d08f",
   "lastOpenFiles": [
-    "离散数学/关系.md",
     "离散数学/命题逻辑.md",
-    "离散数学/谓词.md",
-    "离散数学/代数系统.md",
+    "遗留.md",
     "离散数学/图.md",
+    "未命名",
+    "离散数学/代数系统.md",
+    "离散数学/关系.md",
+    "离散数学/谓词.md",
     "草稿.md",
-    "未命名.md",
     "附件/Pasted image 20230301210843.png",
     "附件/Pasted image 20230301094009.png",
     "附件/Pasted image 20230228210638.png",
