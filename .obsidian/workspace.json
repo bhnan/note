@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学/代数系统.md",
+                "file": "遗留.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学/代数系统.md",
+                "file": "遗留.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/代数系统.md"
+                "file": "遗留.md"
               }
             }
           }
@@ -222,12 +222,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "96c37efa3b94fd21",
+  "active": "234aa7c494e7d08f",
   "lastOpenFiles": [
+    "重点.md",
     "离散数学/关系.md",
     "离散数学/代数系统.md",
     "遗留.md",
-    "重点.md",
     "离散数学/谓词.md",
     "离散数学/命题逻辑.md",
     "离散数学/图.md",
