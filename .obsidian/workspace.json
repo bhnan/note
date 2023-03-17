@@ -30,6 +30,66 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "825ada41ca897af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/关系.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "572d6e95a0d8b1e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/代数系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92d938ee58a6091b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/命题逻辑.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb520eebc74962dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/谓词.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3d5251706d2d851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学/图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -165,14 +225,14 @@
   "lastOpenFiles": [
     "重点.md",
     "遗留.md",
-    "操作系统/操作系统.md",
-    "草稿.md",
     "离散数学/命题逻辑.md",
-    "操作系统",
-    "离散数学/关系.md",
-    "离散数学/代数系统.md",
     "离散数学/谓词.md",
     "离散数学/图.md",
+    "离散数学/代数系统.md",
+    "离散数学/关系.md",
+    "操作系统/操作系统.md",
+    "草稿.md",
+    "操作系统",
     "附件/Pasted image 20230301210843.png",
     "附件/Pasted image 20230301094009.png",
     "附件/Pasted image 20230228210638.png",
