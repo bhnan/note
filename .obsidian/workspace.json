@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遗留.md",
+                "file": "重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "遗留.md",
+                "file": "重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "遗留.md"
+                "file": "重点.md"
               }
             }
           }
@@ -221,10 +222,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "234aa7c494e7d08f",
+  "active": "ab2dade5d56b7e97",
   "lastOpenFiles": [
-    "重点.md",
     "遗留.md",
+    "重点.md",
     "离散数学/关系.md",
     "附件/Pasted image 20230318223516.png",
     "附件/Pasted image 20230318223501.png",
