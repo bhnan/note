@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学/关系.md",
+                "file": "重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学/关系.md",
+                "file": "重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学/关系.md"
+                "file": "重点.md"
               }
             }
           }
@@ -222,11 +222,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "825ada41ca897af1",
+  "active": "ab2dade5d56b7e97",
   "lastOpenFiles": [
+    "离散数学/关系.md",
     "离散数学/代数系统.md",
     "离散数学/命题逻辑.md",
-    "离散数学/关系.md",
     "重点.md",
     "遗留.md",
     "附件/Pasted image 20230318223516.png",
