@@ -115,7 +115,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遗留.md",
+                "file": "重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "遗留.md",
+                "file": "重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "遗留.md"
+                "file": "重点.md"
               }
             }
           }
@@ -245,13 +246,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "234aa7c494e7d08f",
+  "active": "ab2dade5d56b7e97",
   "lastOpenFiles": [
-    "附件/Pasted image 20230321092912.png",
-    "离散数学/图.md",
+    "附件/Pasted image 20230321093841.png",
     "离散数学/关系.md",
     "重点.md",
     "遗留.md",
+    "附件/Pasted image 20230321092912.png",
+    "离散数学/图.md",
     "操作系统/操作系统.md",
     "面试英语.md",
     "离散数学/代数系统.md",
@@ -268,7 +270,6 @@
     "附件/Pasted image 20230301210843.png",
     "附件/Pasted image 20230301094009.png",
     "附件/Pasted image 20230228210638.png",
-    "附件/Pasted image 20230228205415.png",
     "公考/申论.md",
     "kaggle/kaggle.md",
     "公考/言语表达和理解.md",
