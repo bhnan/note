@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试英语.md",
+                "file": "重点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试英语.md",
+                "file": "重点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试英语.md"
+                "file": "重点.md"
               }
             }
           }
@@ -246,9 +246,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ef0f3984da755986",
+  "active": "a23e3adb599ca967",
   "lastOpenFiles": [
     "遗留.md",
+    "面试英语.md",
     "离散数学/关系.md",
     "重点.md",
     "离散数学/代数系统.md",
@@ -258,7 +259,6 @@
     "操作系统/操作系统.md",
     "附件/Pasted image 20230321093841.png",
     "附件/Pasted image 20230321092912.png",
-    "面试英语.md",
     "附件/Pasted image 20230318223516.png",
     "附件/Pasted image 20230318223501.png",
     "附件/Pasted image 20230318223452.png",
