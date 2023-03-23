@@ -429,6 +429,7 @@ study
 subjects
 studies
 self
+strstr
 ffgbnz
 fs
 frac
@@ -1001,6 +1002,7 @@ The
 Thomas
 Take
 Therefore
+Tolower
 le
 lambda
 lt
