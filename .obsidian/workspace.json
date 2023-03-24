@@ -78,7 +78,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "94ae928fc836e801",
+        "type": "tabs",
+        "children": [
           {
             "id": "b3d5251706d2d851",
             "type": "leaf",
@@ -90,13 +96,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "94ae928fc836e801",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "6055c84273d9e910",
             "type": "leaf",
@@ -121,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,6 +255,7 @@
   "active": "8b941786758116de",
   "lastOpenFiles": [
     "遗留.md",
+    "离散数学/图.md",
     "总结.md",
     "重点.md",
     "离散数学/代数系统.md",
@@ -262,7 +264,6 @@
     "面试英语.md",
     "离散数学/谓词.md",
     "离散数学/命题逻辑.md",
-    "离散数学/图.md",
     "草稿.md",
     "英语.md",
     "附件/Pasted image 20230321093841.png",
