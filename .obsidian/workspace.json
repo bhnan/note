@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遗留.md",
+                "file": "总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "遗留.md",
+                "file": "总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "遗留.md"
+                "file": "总结.md"
               }
             }
           }
@@ -251,10 +251,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6055c84273d9e910",
+  "active": "8b941786758116de",
   "lastOpenFiles": [
-    "总结.md",
     "遗留.md",
+    "总结.md",
     "离散数学/图.md",
     "重点.md",
     "离散数学/代数系统.md",
