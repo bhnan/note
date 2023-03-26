@@ -8,6 +8,7 @@ Pick
 Polarise
 Piketty
 Pass
+PAT
 image
 ie
 ilc
@@ -57,6 +58,9 @@ internet
 implement
 interest
 ideal
+interview
+introduction
+its
 png
 pa
 pg
@@ -128,6 +132,14 @@ pasture
 passed
 programming
 practice
+professor
+participated
+playing
+pick
+performance
+passing
+pay
+parents
 md
 mark
 mod
@@ -180,6 +192,7 @@ manure
 majoring
 myself
 my
+moring
 bg
 background
 br
@@ -213,6 +226,9 @@ boxcox
 belady
 basic
 bianhaonan
+badminton
+back
+best
 yna
 yp
 ycc
@@ -234,6 +250,7 @@ you
 yet
 your
 yln
+year
 hdq
 hk
 hash
@@ -266,6 +283,10 @@ he
 hurting
 hot
 how
+honor
+here
+hitting
+household
 em
 ed
 end
@@ -312,6 +333,11 @@ engineer
 english
 exam
 explore
+enjoy
+easy
+embrace
+enough
+efforts
 nsam
 na
 nrmp
@@ -431,6 +457,9 @@ subjects
 studies
 self
 strstr
+strategies
+shuttlecock
+suffered
 ffgbnz
 fs
 frac
@@ -463,6 +492,14 @@ fields
 feature
 famous
 formed
+first
+forth
+fell
+freshman
+feeling
+fully
+found
+family
 vha
 vnvrt
 vbyvu
@@ -476,6 +513,7 @@ varPhi
 violate
 vessels
 vent
+very
 AB
 AES
 AS
@@ -501,6 +539,8 @@ Accordingly
 Always
 Actually
 Acwing
+After
+AI
 CD
 CBC
 CFB
@@ -579,6 +619,7 @@ university
 undergrad
 undergraduate
 use
+unsatisfactory
 Feistel
 FFF
 FCS
@@ -642,6 +683,9 @@ department
 dreamed
 djby
 done
+didn
+direction
+deeply
 DES
 Diffie
 DX
@@ -684,6 +728,8 @@ great
 grumbling
 generates
 good
+graduate
+grateful
 ckp
 clt
 cases
@@ -738,6 +784,9 @@ coding
 chose
 continue
 computers
+competition
+college
+courses
 ztb
 zu
 zooxm
@@ -758,6 +807,7 @@ zik
 GF
 Gamma
 Granny
+Good
 Rcon
 Rc
 RSA
@@ -829,6 +879,7 @@ work
 were
 want
 what
+whit
 Miller
 Mx
 MAX
@@ -841,6 +892,7 @@ Hill
 HDLC
 Hua
 Hungry
+However
 align
 alpha
 akq
@@ -883,6 +935,11 @@ always
 also
 academic
 atmosphere
+am
+advanced
+achieving
+ai
+attention
 kG
 kQ
 kmodp
@@ -905,6 +962,7 @@ keeping
 keep
 knn
 know
+keen
 rx
 rmodp
 rfxlma
@@ -942,6 +1000,10 @@ rous
 respective
 rnn
 resource
+respected
+results
+realized
+requires
 therefore
 tpys
 tygd
@@ -995,6 +1057,10 @@ taigu
 taught
 things
 top
+thought
+though
+typical
+three
 Kerberos
 TGS
 TCP
@@ -1005,6 +1071,7 @@ Take
 Therefore
 Tolower
 Tensorflow
+This
 le
 lambda
 lt
@@ -1037,6 +1104,11 @@ located
 like
 leetcode
 lot
+level
+love
+lost
+leading
+living
 XY
 Xe
 XZ
@@ -1083,6 +1155,7 @@ oenrac
 openai
 operating
 organization
+own
 ja
 jtqqn
 jf
@@ -1100,6 +1173,7 @@ just
 LFSR
 LuoGeng
 Luogeng
+Later
 Qy
 QAM
 Queen
@@ -1119,6 +1193,7 @@ Stanford
 Such
 Setbacks
 So
+Slowly
 When
 Warn
 VIEW
