@@ -460,6 +460,7 @@ strstr
 strategies
 shuttlecock
 suffered
+strive
 ffgbnz
 fs
 frac
@@ -730,6 +731,7 @@ generates
 good
 graduate
 grateful
+give
 ckp
 clt
 cases
@@ -940,6 +942,7 @@ advanced
 achieving
 ai
 attention
+appreciative
 kG
 kQ
 kmodp
@@ -1196,6 +1199,7 @@ So
 Slowly
 When
 Warn
+We
 VIEW
 Violate
 It
