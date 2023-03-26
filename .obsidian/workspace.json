@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试英语.md",
+                "file": "总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试英语.md",
+                "file": "总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试英语.md"
+                "file": "总结.md"
               }
             }
           }
@@ -186,10 +185,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a95efff4268a9d3a",
+  "active": "8b941786758116de",
   "lastOpenFiles": [
-    "遗留.md",
     "面试英语.md",
+    "遗留.md",
     "总结.md",
     "操作系统/操作系统.md",
     "离散数学/谓词.md",
