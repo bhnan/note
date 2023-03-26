@@ -30,96 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "825ada41ca897af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/关系.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "572d6e95a0d8b1e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/代数系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92d938ee58a6091b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/命题逻辑.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb520eebc74962dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/谓词.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "94ae928fc836e801",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6055c84273d9e910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "遗留.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8a48ec2ff915907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "重点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85b8ed5e92e1a850",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学/图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -253,17 +163,17 @@
   },
   "active": "8b941786758116de",
   "lastOpenFiles": [
+    "操作系统/操作系统.md",
+    "离散数学/谓词.md",
+    "总结.md",
     "遗留.md",
     "附件/Pasted image 20230326091152.png",
     "附件/Pasted image 20230326090943.png",
-    "总结.md",
     "离散数学/图.md",
     "重点.md",
     "离散数学/代数系统.md",
     "离散数学/关系.md",
-    "操作系统/操作系统.md",
     "面试英语.md",
-    "离散数学/谓词.md",
     "离散数学/命题逻辑.md",
     "草稿.md",
     "英语.md",
