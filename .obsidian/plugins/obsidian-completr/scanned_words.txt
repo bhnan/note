@@ -471,6 +471,7 @@ strategies
 shuttlecock
 suffered
 strive
+spooling
 ffgbnz
 fs
 frac
@@ -715,6 +716,7 @@ Discern
 Drive
 DS
 During
+DMA
 gzfhlx
 gek
 get
@@ -804,6 +806,7 @@ competition
 college
 courses
 candidate
+cpu
 ztb
 zu
 zooxm
