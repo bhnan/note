@@ -61,6 +61,7 @@ ideal
 interview
 introduction
 its
+independently
 png
 pa
 pg
@@ -140,6 +141,8 @@ performance
 passing
 pay
 parents
+practical
+participating
 md
 mark
 mod
@@ -193,6 +196,7 @@ majoring
 myself
 my
 moring
+motivation
 bg
 background
 br
@@ -229,6 +233,9 @@ bianhaonan
 badminton
 back
 best
+become
+broadening
+began
 yna
 yp
 ycc
@@ -287,6 +294,7 @@ honor
 here
 hitting
 household
+hard
 em
 ed
 end
@@ -338,6 +346,8 @@ easy
 embrace
 enough
 efforts
+experience
+exploring
 nsam
 na
 nrmp
@@ -501,6 +511,7 @@ feeling
 fully
 found
 family
+further
 vha
 vnvrt
 vbyvu
@@ -688,6 +699,7 @@ done
 didn
 direction
 deeply
+due
 DES
 Diffie
 DX
@@ -733,6 +745,7 @@ good
 graduate
 grateful
 give
+gained
 ckp
 clt
 cases
@@ -790,6 +803,7 @@ computers
 competition
 college
 courses
+candidate
 ztb
 zu
 zooxm
@@ -883,6 +897,7 @@ were
 want
 what
 whit
+which
 Miller
 Mx
 MAX
@@ -944,6 +959,8 @@ achieving
 ai
 attention
 appreciative
+addition
+area
 kG
 kQ
 kmodp
@@ -1008,6 +1025,7 @@ respected
 results
 realized
 requires
+related
 therefore
 tpys
 tygd
@@ -1065,6 +1083,7 @@ thought
 though
 typical
 three
+topics
 Kerberos
 TGS
 TCP
@@ -1076,6 +1095,7 @@ Therefore
 Tolower
 Tensorflow
 This
+Thanks
 le
 lambda
 lt
