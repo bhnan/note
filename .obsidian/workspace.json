@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "总结.md",
+                "file": "草稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "总结.md",
+                "file": "草稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "总结.md"
+                "file": "草稿.md"
               }
             }
           }
@@ -209,12 +210,12 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "8b941786758116de",
+  "active": "f130e8b72c7b5c44",
   "lastOpenFiles": [
-    "面试英语.md",
-    "总结.md",
-    "操作系统/操作系统.md",
     "重点.md",
+    "总结.md",
+    "面试英语.md",
+    "操作系统/操作系统.md",
     "遗留.md",
     "离散数学/关系.md",
     "离散数学/代数系统.md",
