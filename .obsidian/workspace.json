@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c3534fbd611b06e9",
+        "id": "e176accddb8313a1",
         "type": "tabs",
         "children": [
           {
-            "id": "8b941786758116de",
+            "id": "342f0f5c7393dfe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "总结.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60d9f34c1e78dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/操作系统.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7fd074b9b1d8907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "遗留.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a95efff4268a9d3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面试英语.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f130e8b72c7b5c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17242ba3e63ed679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "重点.md",
+                "file": "ai/基本问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿.md",
+                "file": "ai/基本问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿.md",
+                "file": "ai/基本问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md"
+                "file": "ai/基本问题.md"
               }
             }
           }
@@ -210,14 +149,20 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "f130e8b72c7b5c44",
+  "active": "342f0f5c7393dfe9",
   "lastOpenFiles": [
-    "重点.md",
-    "草稿.md",
+    "附件/Pasted image 20230424084350.png",
+    "附件/Pasted image 20230424084341.png",
+    "附件/Pasted image 20230424084231.png",
+    "附件/Pasted image 20230424084001.png",
+    "ai/基本问题.md",
+    "ai",
     "总结.md",
-    "面试英语.md",
     "操作系统/操作系统.md",
     "遗留.md",
+    "面试英语.md",
+    "草稿.md",
+    "重点.md",
     "离散数学/关系.md",
     "离散数学/代数系统.md",
     "离散数学/谓词.md",
@@ -231,9 +176,6 @@
     "附件/Pasted image 20230318223516.png",
     "附件/Pasted image 20230318223501.png",
     "附件/Pasted image 20230318223452.png",
-    "附件/Pasted image 20230318223440.png",
-    "附件/Pasted image 20230318212533.png",
-    "附件/Pasted image 20230317212614.png",
     "操作系统",
     "公考/申论.md",
     "kaggle/kaggle.md",
