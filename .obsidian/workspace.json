@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
+                "file": "ai/基本问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
+                "file": "ai/基本问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md"
+                "file": "ai/基本问题.md"
               }
             }
           }
@@ -160,11 +159,11 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "deb1be834fcbbdf1",
+  "active": "342f0f5c7393dfe9",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
-    "Excalidraw",
     "ai/基本问题.md",
+    "Excalidraw",
     "附件/Pasted image 20230424094154.png",
     "附件/Pasted image 20230424094132.png",
     "附件/Pasted image 20230424094109.png",

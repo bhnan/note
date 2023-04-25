@@ -853,6 +853,7 @@ European
 EXCALIDRAW
 Enough
 EDA
+Elements
 OFB
 OFDM
 OSPF
@@ -1101,6 +1102,7 @@ Tolower
 Tensorflow
 This
 Thanks
+Text
 le
 lambda
 lt
