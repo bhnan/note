@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ai/基本问题.md",
+                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ai/基本问题.md",
+                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai/基本问题.md"
+                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edaf6ded808d8200",
+  "active": "deb1be834fcbbdf1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
     "ai/基本问题.md",
+    "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
     "Excalidraw",
     "附件/Pasted image 20230424094154.png",
     "附件/Pasted image 20230424094132.png",
