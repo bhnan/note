@@ -28,9 +28,19 @@
                 "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "183704f89adbd88e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,6 +83,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "47b56166f3afc125",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -160,7 +178,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "deb1be834fcbbdf1",
+  "active": "183704f89adbd88e",
   "lastOpenFiles": [
     "ai/基本问题.md",
     "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
