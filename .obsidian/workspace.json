@@ -28,19 +28,9 @@
                 "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "183704f89adbd88e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +168,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "183704f89adbd88e",
+  "active": "deb1be834fcbbdf1",
   "lastOpenFiles": [
     "ai/基本问题.md",
     "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
