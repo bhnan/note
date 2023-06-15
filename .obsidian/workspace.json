@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "deb1be834fcbbdf1",
+            "id": "729e2047aa54d3e0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "release-notes",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md"
+                "currentVersion": "1.2.8"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
+                "file": "ai/基本问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
+                "file": "ai/基本问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md"
+                "file": "ai/基本问题.md"
               }
             }
           }
@@ -168,10 +168,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "deb1be834fcbbdf1",
+  "active": "729e2047aa54d3e0",
   "lastOpenFiles": [
-    "ai/基本问题.md",
     "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
+    "ai/基本问题.md",
     "Excalidraw",
     "附件/Pasted image 20230424094154.png",
     "附件/Pasted image 20230424094132.png",
