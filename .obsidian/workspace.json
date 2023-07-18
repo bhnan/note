@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "729e2047aa54d3e0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "right": {
     "id": "560a9378ebd62b7a",
@@ -168,10 +156,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "729e2047aa54d3e0",
+  "active": "342f0f5c7393dfe9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
+    "线代/线代基本功.md",
+    "线代/线代.md",
+    "公考/常识判断.md",
+    "公考/申论.md",
+    "公考/资料分析.md",
+    "公考/言语表达和理解.md",
+    "公考/数量关系.md",
+    "线代/答案.md",
+    "概率论/概率论.md",
     "ai/基本问题.md",
+    "Excalidraw/Drawing 2023-04-25 23.19.26.excalidraw.md",
     "Excalidraw",
     "附件/Pasted image 20230424094154.png",
     "附件/Pasted image 20230424094132.png",
@@ -197,14 +194,8 @@
     "离散数学/命题逻辑.md",
     "英语.md",
     "操作系统",
-    "公考/申论.md",
     "kaggle/kaggle.md",
-    "公考/言语表达和理解.md",
-    "公考/常识判断.md",
-    "公考/资料分析.md",
-    "公考/数量关系.md",
     "专业课/密码学.md",
-    "专业课/数据结构.md",
-    "专业课/计算机网络重点.md"
+    "专业课/数据结构.md"
   ]
 }
