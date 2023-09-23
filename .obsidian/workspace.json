@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高数/答案.md",
-                "mode": "preview",
+                "file": "ai/基本问题.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高数/答案.md",
+                "file": "ai/基本问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高数/答案.md",
+                "file": "ai/基本问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高数/答案.md"
+                "file": "ai/基本问题.md"
               }
             }
           }
@@ -158,13 +158,13 @@
   },
   "active": "342f0f5c7393dfe9",
   "lastOpenFiles": [
+    "高数/答案.md",
     "概率论/答案.md",
     "概率论/概率论.md",
     "离散数学/图.md",
     "离散数学/命题逻辑.md",
     "离散数学/关系.md",
     "离散数学/代数系统.md",
-    "高数/答案.md",
     "高数/多元函数微分.md",
     "线代/线代基本功.md",
     "线代/线代.md",
